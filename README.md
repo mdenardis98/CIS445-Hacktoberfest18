@@ -23,3 +23,10 @@
 
 6. Once you submit your pull request, your request will be checked to verify if it is OK (means no conflict to the existing code.)
 7. The maintainer(s) of the open source projects (in this case, me) will check your code and determine whether your code fits into the existing project and provides the functions without causing other issues. Once verified, your code will be merged to the corresponding (maybe master) branch so other developers can also have the access to the updated code.
+
+## Other references
+
+1. [An Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+2. [How to Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+3. [First Timers Only](https://www.firsttimersonly.com)
+4. [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
