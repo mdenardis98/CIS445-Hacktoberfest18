@@ -30,3 +30,7 @@
 2. [How to Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 3. [First Timers Only](https://www.firsttimersonly.com)
 4. [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
+5. [Git-it (Desktop App](https://github.com/jlord/git-it-electron)
+6. [GitHub Training Kit](https://github.com/github/training-kit)
+7. [Hacktoberfest Projects](https://hacktoberfest.digitalocean.com/#projects)
+8. [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
