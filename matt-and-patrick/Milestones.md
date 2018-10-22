@@ -1,7 +1,9 @@
 Milestone Week 1:
 
-	M1: Download Android Studio, get it set up
-	M2: Run Sample Code, make sure it works
+	M1: Download Android Studio, Run Sample Code
+	M2: FInd more complex Sample code
+	M3: Initially come up with app functions to be created
+	M4: Preliminary Code writing
 
 Milestones Week 2:
 	
